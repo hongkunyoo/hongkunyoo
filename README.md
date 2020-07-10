@@ -1,16 +1,13 @@
-### Hi there 👋
+## 커피고래
 
-<!--
-**hongkunyoo/hongkunyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 술 좋아하면 술고래, 커피 좋아하면 커피고래!
+- 안녕하세요, ML, 컨테이너 기술에 관심이 많으며 현재 쿠버네티스를 이용하여 기계학습 플랫폼을 구축하는 **MLOps 엔지니어**로 일하고 있습니다.
 
-Here are some ideas to get you started:
+### I'm interested in
+- Kubernetes
+- Cloud Computing
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me
+- Blog: [coffeewhale.com](https://coffeewhale.com)
+- AboutMe: [coffeewhale.com](https://coffeewhale.com/about)
