@@ -10,4 +10,4 @@
 
 ### More about me
 - Blog: [coffeewhale.com](https://coffeewhale.com)
-- AboutMe: [coffeewhale.com](https://coffeewhale.com/about)
+- AboutMe: [coffeewhale.com/about](https://coffeewhale.com/about)
